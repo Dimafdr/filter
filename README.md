@@ -1,8 +1,8 @@
 # Домашнее задание №2 к лекции «Redux»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/y7k1alh8yqaeiqpn?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ra-hw-10-2-filter)
+[![Build status](https://ci.appveyor.com/api/projects/status/y7k1alh8yqaeiqpn?svg=true)](https://ci.appveyor.com/project/Dimafdr/filter)
 
-[Ссылка на Github Pages](https://yuriyvyatkin.github.io/ra-hw-10.2-filter/)
+[Ссылка на Github Pages](https://dimafdr.github.io/filter/)
 
 Фильтрация
 ===
